@@ -178,7 +178,7 @@ end
 _reader[1] = function(msg) return _reader.int end
 _reader[2] = function(msg) return _reader.real end
 _reader[3] = function(msg) return _reader.bool end
-_reader[4] = function(msg) return _reader.string end
+_reader[4] = function(msg) return _reader.int end
 _reader[5] = function(msg) return _reader.string end
 _reader[6] = function(msg)
 	local message = _reader.message

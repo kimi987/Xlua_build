@@ -38,7 +38,7 @@ lipo libxluav7.a -create libxluav7s.a libxlua64.a -output libluajit.a
 cd ../..
 
 mkdir -p build_lj_ios && cd build_lj_ios
-cmake -DUSING_LUAJIT=ON  -DCMAKE_TOOLCHAIN_FILE=../cmake/iOS.cmake  -GXcode ../
+cmake -DPBC=ON -DUSING_LUAJIT=ON  -DCMAKE_TOOLCHAIN_FILE=../cmake/iOS.cmake  -GXcode ../
 cd ..
 cmake --build build_lj_ios --config Release
 
