@@ -1,3 +1,20 @@
+
+## 步骤
+
+更新Plugin, 更新xlua的c#代码
+
+把`LibsTestProj/Assets下的BuildInInit.cs`和`build/pbc/binding/lua/protobuf.lua`放在/Assets下
+
+库的初始化看实例：LibsTestProj/Assets/Helloworld/Helloworld.cs, 在合适的地方初始化这3个库
+
+提供一个可以读到纯二进制文件并gzip解压的方法, 修改注册pb时的代码
+
+需要decode时
+
+    local pb = require "protobuf"
+    config = pb.decode("shared_Config", data)
+
+
 xLua常用库集成
 =====
 
