@@ -1,0 +1,3 @@
+C:/Users/lkjhgf/Desktop/build_xlua_with_libs/build/build32/CMakeFiles/xlua.dir
+C:/Users/lkjhgf/Desktop/build_xlua_with_libs/build/build32/CMakeFiles/ALL_BUILD.dir
+C:/Users/lkjhgf/Desktop/build_xlua_with_libs/build/build32/CMakeFiles/ZERO_CHECK.dir

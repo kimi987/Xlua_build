@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lapi.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lcode.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lctype.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ldebug.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ldo.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ldump.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lfunc.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lgc.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\llex.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lmem.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lobject.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lopcodes.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lparser.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lstate.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lstring.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ltable.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ltm.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lundump.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lvm.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lzio.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lauxlib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lbaselib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lbitlib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lcorolib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ldblib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\liolib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lmathlib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\loslib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lstrlib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\ltablib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\linit.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\lutf8lib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-5.3.5\src\loadlib.c">
+      <Filter>lua-5.3.5\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\auxiliar.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\buffer.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\except.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\inet.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\io.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\luasocket.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\mime.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\options.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\select.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\tcp.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\timeout.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\udp.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\luasocket\wsocket.c">
+      <Filter>luasocket</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\i64lib.c" />
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\perflib.c" />
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\xlua.c" />
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lua-rapidjson\source\rapidjson.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\alloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\bootstrap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\decode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\map.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\pattern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\proto.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\register.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\rmessage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\stringpool.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\varint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\src\wmessage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc\binding\lua53\pbc-lua53.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lpeg\lpcap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lpeg\lpcode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lpeg\lpprint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lpeg\lptree.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\lpeg\lpvm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\ffi\parser.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\ffi\ctype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\ffi\ffi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\lkjhgf\Desktop\build_xlua_with_libs\build\pbc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1E5DC61F-8C8D-3D81-96B3-3E1A5CEE39DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lua-5.3.5">
+      <UniqueIdentifier>{92DE0115-4B6A-38BF-9DF1-A35A16580F7A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lua-5.3.5\src">
+      <UniqueIdentifier>{97CDF99E-913F-3E15-8197-F23DCC5E113E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="luasocket">
+      <UniqueIdentifier>{1EBD7B8A-F2F1-317D-9A33-9EEDA4DD622A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

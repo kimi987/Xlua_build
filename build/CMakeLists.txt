@@ -24,7 +24,7 @@ option ( UINT_ESPECIALLY "using custom ulong" OFF )
 option ( USING_LUAJIT "using luajit" OFF )
 option ( GC64 "using gc64" OFF )
 option ( LUAC_COMPATIBLE_FORMAT "compatible format" OFF )
-option ( PBC "using pbc" OFF )
+option ( PBC "using pbc" ON)
 
 find_path(XLUA_PROJECT_DIR NAMES SConstruct
     PATHS
@@ -66,7 +66,6 @@ else()
 	#begin pbc
 	set (PBC_SRC
 		pbc/src/alloc.c
-		pbc/src/array.c
 		pbc/src/array.c
 		pbc/src/bootstrap.c
 		pbc/src/context.c
@@ -203,10 +202,6 @@ set ( XLUA_CORE
     perflib.c
     xlua.c
 )
-
-if (NOT USING_LUAJIT)
-    list (APPEND XLUA_CORE memory_leak_checker.c)
-endif ( )
 
 macro(source_group_by_dir proj_dir source_files)
     if(MSVC OR APPLE)
